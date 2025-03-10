@@ -3,7 +3,7 @@
 //Don't modify anything else.
 int main() {
     int num = -5;
-    if (______) {
+    if (num > 0) {
         printf("%d is a positive number\n", num);
     } else {
         printf("%d is a negative or zero number\n", num);

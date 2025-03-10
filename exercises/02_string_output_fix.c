@@ -5,6 +5,6 @@ int main() {
   //Please correct the error to make the program run normally.
   //Don't modify anything else.
     char str[] = "Hello, World!";
-    printf(str);
+    puts(str);
     return 0;
 }
