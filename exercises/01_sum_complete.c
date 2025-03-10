@@ -4,6 +4,7 @@
 int add(int a, int b) {
     // Write the code here
     return a + b;
+    
 }
 
 int main() {
