@@ -3,7 +3,7 @@
 // This function adds two numbers.
 int add(int a, int b) {
     // Write the code here
-    return a+b;
+    return a + b;
 }
 
 int main() {
